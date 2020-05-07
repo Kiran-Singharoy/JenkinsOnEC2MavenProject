@@ -47,7 +47,5 @@
   <version>2.22.0</version>
 </plugin>
   </plugins>
-   <plugin>
-   </plugin>
  </build>
 </project>
